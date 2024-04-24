@@ -1,2 +1,10 @@
 # Data-Visualisation-Project
-Code for Visualising Academic Trends Project done as part of the Data Visualisation course at BITS Pilani
+
+### Team Details :
+
+Kishan Koundinya - 2020A7PS0213H
+
+Suvigya Sharma - 2020A7PS0140H
+
+Nishith Kumar - 2020A7PS0157H
+
